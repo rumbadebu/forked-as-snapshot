@@ -1,0 +1,3 @@
+[submodule "MinIOConsole-Uncut"]
+	path = MinIOConsole-Uncut
+	url = https://github.com/georgmangold/console.git
