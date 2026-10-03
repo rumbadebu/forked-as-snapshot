@@ -1,3 +1,6 @@
 [submodule "MinIOConsole-Uncut"]
 	path = MinIOConsole-Uncut
 	url = https://github.com/georgmangold/console.git
+[submodule "MinIO"]
+	path = MinIO
+	url = https://github.com/minio/minio.git
